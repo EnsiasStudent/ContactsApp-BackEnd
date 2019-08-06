@@ -15,7 +15,7 @@ you can write on your the paths in the URL for example [http://localhost:8080/co
 
 ## Testing the App with a FrontEnd
 In order to witness the concrete results of this application :
-- You need to fork this project here : [ContactsApp-FrontEnd](https://github.com/EnsiasStudent/ContactsApp-FrontEnd.git)
+- You need to clone this project here : [ContactsApp-FrontEnd](https://github.com/EnsiasStudent/ContactsApp-FrontEnd.git)
 - Run the Angular server using the command ```ng serve```
 - Run the SpringBoot server in your IDE.
 - go to [http://localhost:4200/](http://localhost:4200/)
